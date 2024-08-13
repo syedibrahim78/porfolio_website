@@ -20,7 +20,7 @@ To view the website locally, clone this repository and open the index.html file 
 
 
 Live Demo:
-You can view the live version of the portfolio at [link].
+You can view the live version of the portfolio at [https://syedibrahim78.github.io/porfolio_website/].
 
 
 Acknowledgements:
